@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// fonts
+import './fonts/helvetica-neue.ttf';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
