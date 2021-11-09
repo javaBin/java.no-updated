@@ -11,7 +11,7 @@ const Mvp = () => {
 
                             Ønsker dere å holde en meetup hos oss?
                             Send epost til vert@teknologihuset.no eller trykk på knappen under
-                    </p>
+                        </p>
                     </div>
                 </section>
             </div>

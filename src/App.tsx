@@ -5,7 +5,7 @@ import Mvp from './pages/Mvp';
 
 function App() {
   return (
-    <div className="app">
+    <div className="app max-width">
       <MvpJumbottron />
       <Header />
       <Mvp />
