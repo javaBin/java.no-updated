@@ -1,0 +1,96 @@
+.jumbotron-size {
+  width: 2048px;
+  height: 1364px;
+} 
+
+.mvp-background {
+  position: absolute;
+  top: -20vh;
+  min-width: 100%;
+  max-width: 80vw;
+}
+
+.max-width {
+  width: 100%;
+}
+
+.max-height {
+  height: 100%;
+}
+
+.pink {
+  color: #E51F7E;
+}
+
+.mvp-container {
+  position: relative;
+  background: hsl(0 0% 100% / .9);
+  background-repeat: no-repeat;
+  min-width: 100%;
+  min-height: calc(100vh - 2rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+
+.mvp-info-box {
+  background-color: hsl(0 0% 100% / .9);
+  padding: 1em 2em;
+}
+
+.mvp-book {
+  font-family: 'Russo One';
+  position: relative;
+  font-size: 3rem;
+  background-color: #E51F7E;
+  border: none;
+  border-radius: 10px;
+  padding: .5em .8em;
+  transition: ease 0.6;
+}
+
+a > .mvp-book {
+  color: white;
+  transition:  ease .2s;
+}
+
+.mvp-book:hover {
+  background-color: white;
+}
+
+a > .mvp-book:hover {
+  cursor: pointer;
+  color: #E51F7E;
+}
+
+.mvp-info {
+  margin: auto;
+}
+
+.mvp-info > p {
+  font-weight: 600;
+}
+
+.no-link {
+  text-decoration: none;
+}
+  
+@media screen and (max-width: 900px) {
+  .mvp-container {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-top: 3em;
+  }
+
+  .mvp-container {
+    background: hsl(0 0% 100% / .9);
+    max-width: 90%;
+  }
+
+  .mvp-book {
+    font-size: 2em;
+  }
+}

@@ -1,17 +1,16 @@
 html, body {
   margin: 0;
   color: #EDEDED;
-  background-color: grey;
+  background-color: rgb(33, 33, 33);
   width: 100%;
   height: 100%;
+  overflow: hidden;
 }
 
 .app {
   display: flex;
   flex-direction: column;
-  height: 100vh;
-  width: 100%;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 @font-face {
@@ -20,24 +19,8 @@ html, body {
   font-weight: bold;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.rebel-font {
   font-family: "helvetica-neue";
-}
-
-.max-width {
-  width: 100%;
-}
-
-.pink {
-  color: #E51F7E;
-}
-
-.z2 {
-  z-index: 2;
-}
-
-.mvp-container {
-  
 }
 
 /* header styling */
@@ -45,36 +28,37 @@ header {
   display: flex;
   justify-content: center;
   background-color: #212020;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   top: 0px;
   z-index: 2;
 }
 
-/* jumbotron styling */
-.mvp-container {
- border: solid 2px;
+.mvp-header {
+  font-family: 'Russo One';
+  font-weight: 400;
 }
 
-.mvp-jumbotron {
+.mvp-duke-wip {
   position: absolute;
-  top: 0px;
-  width: 100vw;
-  height: 100vh;
-}
-
-.mvp-info-container {
-  margin: auto;
+  height: 15em;
+  bottom: 0;
+  z-index: 10;
 }
 
 @media screen and (max-width: 900px) {
   header {
-    font-size: 1rem;
+    font-size: 0.8rem;
     text-align: center;
   }
-  
-  .mvp-jumbotron {
+
+  .mvp-background {
     width: 200vw;
-    height: 100vh;
-    left: -40vw;
+    top: 0;
   }
+
+  .mvp-duke-wip {
+    height: 8em;
+    z-index: 10;
+  }
+
 }
