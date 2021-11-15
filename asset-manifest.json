@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/teknologihuset-rebel/static/css/main.11d621cf.chunk.css",
-    "main.js": "/teknologihuset-rebel/static/js/main.2fdc6e4d.chunk.js",
-    "main.js.map": "/teknologihuset-rebel/static/js/main.2fdc6e4d.chunk.js.map",
-    "runtime-main.js": "/teknologihuset-rebel/static/js/runtime-main.8d21f4c1.js",
-    "runtime-main.js.map": "/teknologihuset-rebel/static/js/runtime-main.8d21f4c1.js.map",
-    "static/js/2.74ee6596.chunk.js": "/teknologihuset-rebel/static/js/2.74ee6596.chunk.js",
-    "static/js/2.74ee6596.chunk.js.map": "/teknologihuset-rebel/static/js/2.74ee6596.chunk.js.map",
-    "static/js/3.79b1a5f8.chunk.js": "/teknologihuset-rebel/static/js/3.79b1a5f8.chunk.js",
-    "static/js/3.79b1a5f8.chunk.js.map": "/teknologihuset-rebel/static/js/3.79b1a5f8.chunk.js.map",
-    "index.html": "/teknologihuset-rebel/index.html",
-    "static/css/main.11d621cf.chunk.css.map": "/teknologihuset-rebel/static/css/main.11d621cf.chunk.css.map",
-    "static/js/2.74ee6596.chunk.js.LICENSE.txt": "/teknologihuset-rebel/static/js/2.74ee6596.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/teknologihuset-rebel/static/media/helvetica-neue.e600a119.ttf"
+    "main.css": "/teknologihuset-rebel/index.html/static/css/main.1eb91ffa.chunk.css",
+    "main.js": "/teknologihuset-rebel/index.html/static/js/main.2fdc6e4d.chunk.js",
+    "main.js.map": "/teknologihuset-rebel/index.html/static/js/main.2fdc6e4d.chunk.js.map",
+    "runtime-main.js": "/teknologihuset-rebel/index.html/static/js/runtime-main.8c09b1b8.js",
+    "runtime-main.js.map": "/teknologihuset-rebel/index.html/static/js/runtime-main.8c09b1b8.js.map",
+    "static/js/2.74ee6596.chunk.js": "/teknologihuset-rebel/index.html/static/js/2.74ee6596.chunk.js",
+    "static/js/2.74ee6596.chunk.js.map": "/teknologihuset-rebel/index.html/static/js/2.74ee6596.chunk.js.map",
+    "static/js/3.79b1a5f8.chunk.js": "/teknologihuset-rebel/index.html/static/js/3.79b1a5f8.chunk.js",
+    "static/js/3.79b1a5f8.chunk.js.map": "/teknologihuset-rebel/index.html/static/js/3.79b1a5f8.chunk.js.map",
+    "index.html": "/teknologihuset-rebel/index.html/index.html",
+    "static/css/main.1eb91ffa.chunk.css.map": "/teknologihuset-rebel/index.html/static/css/main.1eb91ffa.chunk.css.map",
+    "static/js/2.74ee6596.chunk.js.LICENSE.txt": "/teknologihuset-rebel/index.html/static/js/2.74ee6596.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/teknologihuset-rebel/index.html/static/media/helvetica-neue.e600a119.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d21f4c1.js",
+    "static/js/runtime-main.8c09b1b8.js",
     "static/js/2.74ee6596.chunk.js",
-    "static/css/main.11d621cf.chunk.css",
+    "static/css/main.1eb91ffa.chunk.css",
     "static/js/main.2fdc6e4d.chunk.js"
   ]
 }
