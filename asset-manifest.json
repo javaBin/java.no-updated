@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/teknologihuset-rebel/index.html/static/css/main.e9121a4a.chunk.css",
-    "main.js": "/teknologihuset-rebel/index.html/static/js/main.2fdc6e4d.chunk.js",
-    "main.js.map": "/teknologihuset-rebel/index.html/static/js/main.2fdc6e4d.chunk.js.map",
+    "main.js": "/teknologihuset-rebel/index.html/static/js/main.601be472.chunk.js",
+    "main.js.map": "/teknologihuset-rebel/index.html/static/js/main.601be472.chunk.js.map",
     "runtime-main.js": "/teknologihuset-rebel/index.html/static/js/runtime-main.8c09b1b8.js",
     "runtime-main.js.map": "/teknologihuset-rebel/index.html/static/js/runtime-main.8c09b1b8.js.map",
     "static/js/2.74ee6596.chunk.js": "/teknologihuset-rebel/index.html/static/js/2.74ee6596.chunk.js",
@@ -12,12 +12,14 @@
     "index.html": "/teknologihuset-rebel/index.html/index.html",
     "static/css/main.e9121a4a.chunk.css.map": "/teknologihuset-rebel/index.html/static/css/main.e9121a4a.chunk.css.map",
     "static/js/2.74ee6596.chunk.js.LICENSE.txt": "/teknologihuset-rebel/index.html/static/js/2.74ee6596.chunk.js.LICENSE.txt",
+    "static/media/atrium.ab71686d.png": "/teknologihuset-rebel/index.html/static/media/atrium.ab71686d.png",
+    "static/media/duke-wip.8da7de3e.png": "/teknologihuset-rebel/index.html/static/media/duke-wip.8da7de3e.png",
     "static/media/App.css": "/teknologihuset-rebel/index.html/static/media/helvetica-neue.e600a119.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.8c09b1b8.js",
     "static/js/2.74ee6596.chunk.js",
     "static/css/main.e9121a4a.chunk.css",
-    "static/js/main.2fdc6e4d.chunk.js"
+    "static/js/main.601be472.chunk.js"
   ]
 }
